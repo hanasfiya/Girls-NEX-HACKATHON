@@ -1,0 +1,10 @@
+# Ignore sensitive credential files
+service_account.json
+google_translate_key.json
+
+# Local virtual environment
+petronas-env/
+
+# OS files
+__pycache__/
+*.pyc
