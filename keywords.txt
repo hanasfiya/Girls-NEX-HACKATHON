@@ -1,0 +1,689 @@
+PETRONAS
+Upstream
+Downstream
+Refinery
+SOC
+IDS
+IPS
+Firewall
+Malware
+Ransomware
+Virus
+Phishing
+DDoS
+APT
+Cyberattack
+SCADA
+ICS
+OT Security
+Network Security
+Endpoint Security
+Penetration Testing
+Vulnerability
+Exploit
+Threat Intelligence
+CVE
+Patch
+Zero-Day
+Cybersecurity
+Information Security
+Data Breach
+Phishing Email
+Malicious Code
+Spyware
+Botnet
+SQL Injection
+Cross-Site Scripting
+Cryptojacking
+Industrial Control Systems
+Oil and Gas
+Petrochemical
+Pipeline
+Drilling
+Offshore
+Onshore
+Upstream Operations
+Downstream Operations
+Cyber Threat
+SOC Analyst
+SIEM
+Incident Response
+Security Policy
+Access Control
+Encryption
+Multi-Factor Authentication
+VPN
+Network Monitoring
+Cyber Forensics
+Risk Assessment
+Audit
+Compliance
+PenTest
+Red Team
+Blue Team
+Data Exfiltration
+Network Segmentation
+Threat Hunting
+Application Security
+Cloud Security
+DevSecOps
+Zero Trust
+SOC Operations
+Critical Infrastructure
+HSE
+Occupational Safety
+Process Safety
+SCADA Security
+ICS Security
+Industrial Cybersecurity
+Oil Rig Security
+Refinery Security
+Petrochemical Security
+Pipeline Security
+Hydrocarbon Security
+Exploration Security
+Production Security
+Offshore Platform
+Onshore Facility
+Storage Terminal
+Tank Farm
+Control Room
+Emergency Response
+Incident Management
+Security Awareness
+Phishing Awareness
+User Training
+Malware Analysis
+Reverse Engineering
+Threat Modeling
+Vulnerability Scan
+Patch Management
+Firewall Rules
+IDS Alerts
+IPS Events
+SIEM Log
+Security Incident
+Cyber Attack Mitigation
+Red Team Exercise
+Blue Team Exercise
+SOC Alert
+SOC Dashboard
+Threat Intelligence Feed
+SOC Playbook
+Incident Response Plan
+SOC Report
+Data Loss Prevention
+File Integrity Monitoring
+Network Intrusion
+Security Event
+Anomaly Detection
+SOC Automation
+Security Orchestration
+Risk Mitigation
+Industrial Firewall
+VPN Tunnel
+Privileged Access Management
+Identity Management
+Identity Theft
+Data Privacy
+Cyber Risk
+Information Assurance
+Data Classification
+Security Policy Compliance
+Audit Trail
+Security Governance
+Cyber Hygiene
+Threat Landscape
+Malware Signature
+SOC Operations Center
+Emergency Shutdown
+Drilling Platform Security
+Oil Field Security
+Pipeline Monitoring
+Leak Detection
+Offshore Security Patrol
+Oil Terminal Security
+Petrochemical Plant Security
+Asset Protection
+Process Monitoring
+Industrial Safety
+ICS Network
+SCADA Network
+Industrial Protocols
+Modbus Security
+DNP3 Security
+OPC Security
+PLC Security
+HMI Security
+Control System Security
+Field Device Security
+Remote Access Security
+Vendor Risk
+Supply Chain Security
+Cybersecurity Framework
+NIST
+ISO27001
+ISO27002
+ISO22301
+CIS Controls
+SOC Metrics
+Key Risk Indicators
+Incident Metrics
+Security Dashboard
+Attack Surface
+Vulnerability Management
+Patch Deployment
+SIEM Correlation
+Event Correlation
+SOC Triage
+SOC Escalation
+SOC Playbooks
+Cybersecurity Training
+Security Awareness Campaign
+Phishing Simulation
+Password Policy
+Access Review
+Data Encryption
+Encryption Key Management
+Security Token
+Certificate Management
+Network Segregation
+DMZ
+Demilitarized Zone
+Endpoint Protection
+EDR
+Antivirus
+Antimalware
+Threat Detection
+Intrusion Prevention
+Intrusion Detection
+SOC Log Review
+Security Alerts
+Security Reports
+Risk Analysis
+Cyber Threat Intelligence
+Threat Feed
+Exploit Detection
+SOC Automation Tools
+Security Automation
+SOAR
+Security Operations
+Cloud Threat
+Cloud Security Monitoring
+SaaS Security
+IaaS Security
+PaaS Security
+Container Security
+Kubernetes Security
+Docker Security
+Cloud IAM
+Cloud Access Security Broker
+Cloud Compliance
+Cloud Misconfiguration
+Cloud Logging
+Cloud Incident Response
+Zero-Day Exploit
+Remote Code Execution
+Privilege Escalation
+Command Injection
+Buffer Overflow
+Security Patch
+Vulnerability Assessment
+Security Audit
+Industrial Risk
+Industrial Threat
+Oil & Gas Threat
+Petrochemical Threat
+Pipeline Threat
+SCADA Threat
+ICS Threat
+Cybersecurity Threat
+Threat Campaign
+APT Group
+Cyber Espionage
+Cybercrime
+Industrial Cybercrime
+Network Breach
+System Breach
+Security Breach
+Data Breach Notification
+Critical Asset
+Critical Infrastructure Protection
+Industrial Control Breach
+Operational Technology Breach
+Security Monitoring
+Anomaly Monitoring
+Behavioral Analytics
+SOC Forensics
+Digital Forensics
+Incident Forensics
+Threat Investigation
+Malware Investigation
+Attack Investigation
+Cybersecurity Incident
+Security Event Analysis
+SOC Analysis
+Security Log Analysis
+Network Forensics
+Packet Capture Analysis
+Intrusion Investigation
+SOC Report Generation
+Threat Mitigation
+SOC Playbook Execution
+Emergency Protocol
+Incident Containment
+Incident Remediation
+Data Backup Security
+Business Continuity
+Disaster Recovery
+Industrial Backup
+SCADA Backup
+ICS Backup
+Oil Plant Backup
+Offshore Data Security
+Onshore Data Security
+Terminal Data Security
+Oil Rig Cybersecurity
+Petrochemical Cybersecurity
+Upstream Cybersecurity
+Downstream Cybersecurity
+Pipeline Cybersecurity
+Drilling Cybersecurity
+Production Cybersecurity
+Control Room Security
+Industrial Cyber Attack
+ICS Cyber Attack
+SCADA Cyber Attack
+Network Attack
+Endpoint Attack
+Malware Attack
+Ransomware Attack
+Phishing Attack
+Social Engineering Attack
+DDoS Attack
+Botnet Attack
+SQL Injection Attack
+Cross-Site Scripting Attack
+Privilege Attack
+Remote Access Attack
+Identity Attack
+Data Theft
+Industrial Malware
+Industrial Ransomware
+Industrial Virus
+Industrial Spyware
+Industrial Trojan
+Industrial Worm
+Industrial Cyber Espionage
+Industrial APT
+Industrial Threat Intelligence
+Industrial SOC
+Industrial Incident Response
+Industrial PenTest
+Oil & Gas Cyber Threat
+Oil & Gas SOC
+Oil & Gas ICS
+Petrochemical Threat
+Petrochemical SOC
+Pipeline Threat Intelligence
+Upstream Threat Intelligence
+Downstream Threat Intelligence
+Phishing
+Smishing
+Vishing
+Fraud
+Impersonation
+Identity Theft
+Social Engineering
+Scam
+Cybercrime
+Hacking
+Unauthorized Access
+Data Theft
+Account Compromise
+Password Leak
+Credential Theft
+Malware
+Virus
+Ransomware
+Spyware
+Trojan
+Worm
+Adware
+Botnet
+Cyber Attack
+Online Threat
+Digital Threat
+Security Breach
+Data Breach
+Network Breach
+Information Leak
+Privacy Violation
+Email Scam
+Fake Website
+Fake App
+Malicious Link
+Suspicious Attachment
+Account Hijack
+Identity Fraud
+Financial Fraud
+Online Fraud
+Wire Transfer Scam
+Phishing Email
+Credential Phishing
+SMS Phishing
+Voice Scam
+Business Email Compromise
+Cyber Fraud
+Cyber Espionage
+Cybersecurity Threat
+Digital Risk
+Online Security Risk
+Threat Alert
+Security Alert
+System Compromise
+Unauthorized Login
+Hacker Attack
+Cyber Intrusion
+Network Intrusion
+IT Risk
+Endpoint Risk
+Cloud Risk
+Password Attack
+Brute Force Attack
+Data Loss
+Sensitive Data Exposure
+Information Security Threat
+Digital Attack
+Online Exploit
+Hack Attempt
+Compromised Account
+Security Incident
+Cybersecurity Incident
+Malicious Activity
+Security Threat
+Social Hack
+Identity Scam
+Data Exposure
+Digital Fraud
+Online Risk
+Credential Scam
+Unauthorized Activity
+Security Violation
+System Breach
+Account Fraud
+Cyber Theft
+Phishing Scam
+Smishing
+Vishing
+Business Email Compromise
+Email Spoofing
+Credential Theft
+Account Takeover
+Password Spraying
+Brute Force Attack
+Malvertising
+Ad Fraud
+Clickjacking
+Watering Hole Attack
+Man-in-the-Middle Attack
+Session Hijacking
+DNS Spoofing
+DNS Cache Poisoning
+Domain Squatting
+Typosquatting
+Fake Apps
+Malicious Apps
+Mobile Malware
+Android Malware
+iOS Malware
+Ransomware-as-a-Service
+Crypto Jacking
+Cryptocurrency Theft
+Crypto Mining Malware
+Keylogger
+Spyware Attack
+Trojan Horse
+Backdoor
+Rootkit
+Botnet Attack
+Command & Control Server
+Exploit Kit
+Remote Desktop Exploit
+Privilege Escalation Attack
+Zero-Day Vulnerability
+Vulnerability Exploit
+Patch Exploit
+Insider Threat
+Insider Fraud
+Social Engineering Attack
+Impersonation Attack
+Whaling Attack
+CEO Fraud
+Financial Fraud
+Wire Transfer Fraud
+ATM Skimming
+POS Malware
+Supply Chain Attack
+Third Party Breach
+Vendor Breach
+Partner Breach
+Cloud Account Takeover
+Cloud Misconfiguration
+SaaS Misconfiguration
+IaaS Misconfiguration
+PaaS Misconfiguration
+API Exploit
+Server Misconfiguration
+Web Application Attack
+SQL Injection Attack
+Cross-Site Request Forgery
+Local File Inclusion
+Remote File Inclusion
+Directory Traversal
+Path Traversal
+Server-Side Request Forgery
+Unvalidated Redirect
+Untrusted Input
+Open Redirect
+HTTP Response Splitting
+Click Fraud
+Ad Injection
+Malicious Redirect
+Fake Login Page
+Rogue Device
+Rogue Access Point
+Wi-Fi Spoofing
+Man-in-the-Browser Attack
+Eavesdropping
+Packet Sniffing
+ARP Spoofing
+Session Fixation
+Session Replay
+Token Hijacking
+Authentication Bypass
+Authorization Bypass
+Privilege Abuse
+Security Misconfiguration
+Broken Access Control
+Sensitive Data Exposure
+Insecure Deserialization
+Insufficient Logging
+Security Logging
+Security Monitoring
+SIEM Alert
+SOC Notification
+SOC Dashboard Alert
+Critical Alert
+High Priority Alert
+Medium Priority Alert
+Low Priority Alert
+Incident Classification
+Incident Categorization
+Incident Prioritization
+Incident Ticketing
+Threat Alert
+Threat Advisory
+Threat Notification
+Cyber Threat Report
+APT Attack
+State-Sponsored Attack
+Hacktivist Attack
+Cybercrime Syndicate
+Ransomware Campaign
+Phishing Campaign
+Spear Phishing Campaign
+Business Email Compromise Campaign
+Smishing Campaign
+Vishing Campaign
+Exploit Campaign
+Zero-Day Campaign
+Industrial Malware Attack
+Industrial Virus Attack
+ICS Malware
+SCADA Malware
+OT Malware
+Industrial Network Breach
+Industrial Control Breach
+Oil & Gas Cyberattack
+Petrochemical Cyberattack
+Pipeline Attack
+Refinery Attack
+Offshore Platform Attack
+Onshore Facility Attack
+Drilling Rig Attack
+Tank Farm Attack
+Terminal Attack
+Control System Breach
+HMI Breach
+PLC Breach
+ICS Exploit
+SCADA Exploit
+Industrial Espionage
+Cyber Reconnaissance
+Vulnerability Scan Detection
+PenTest Activity
+Red Team Engagement
+Blue Team Response
+SOC Drill
+Incident Simulation
+Cybersecurity Exercise
+Threat Hunting Operation
+Phishing Simulation Test
+Malware Analysis Lab
+Reverse Engineering Malware
+Digital Forensics Investigation
+Log Analysis
+SIEM Correlation Event
+SOC Forensics Analysis
+Endpoint Detection Event
+Network Detection Event
+Firewall Event
+IDS Event
+IPS Event
+Data Exfiltration Detection
+Unauthorized Access
+Access Violation
+Privileged Account Abuse
+Insider Risk
+Security Audit Finding
+Security Gap
+Patch Gap
+Configuration Gap
+Misconfiguration Detection
+Credential Exposure
+Account Compromise
+Sensitive Data Theft
+Data Privacy Breach
+PII Exposure
+PHI Exposure
+HIPAA Violation
+GDPR Violation
+Regulatory Breach
+Compliance Violation
+Security Policy Violation
+Risk Assessment Finding
+Threat Intelligence Feed
+Emerging Threat
+Cybersecurity Alert
+Emerging Vulnerability
+Critical Vulnerability
+High Severity Vulnerability
+Medium Severity Vulnerability
+Low Severity Vulnerability
+CVE Exploit
+MITRE ATT&CK Technique
+TTP
+Kill Chain Phase
+Reconnaissance Activity
+Initial Access Activity
+Execution Activity
+Persistence Activity
+Privilege Escalation Activity
+Defense Evasion Activity
+Credential Access Activity
+Discovery Activity
+Lateral Movement Activity
+Collection Activity
+Exfiltration Activity
+Command and Control Activity
+Impact Activity
+SOC Playbook Trigger
+Security Orchestration Event
+SOAR Activity
+Incident Response Plan Activation
+Disaster Recovery Activation
+Business Continuity Activation
+Contingency Plan Trigger
+Cybersecurity Awareness Campaign
+User Security Training
+Phishing Awareness Training
+Security Hygiene
+Password Policy Enforcement
+MFA Enforcement
+Access Review Process
+Identity and Access Management
+Privileged Access Management
+Role-Based Access Control
+Least Privilege Enforcement
+Network Segmentation Enforcement
+Critical Infrastructure Protection
+Industrial Safety
+Industrial Security Control
+Industrial Safety Protocol
+Oil & Gas Safety Protocol
+Pipeline Safety
+Refinery Safety
+Offshore Safety
+Onshore Safety
+Terminal Safety
+Emergency Response Drill
+Security Drill
+Critical Event Drill
+Incident Containment Drill
+Incident Remediation Drill
+SOC Escalation Drill
+Security Monitoring Drill
+Threat Intelligence Drill
+Cyber Threat Drill
+Vulnerability Management Drill
+Patch Deployment Drill
+PenTest Drill
+Red Team Drill
+Blue Team Drill
+Attack Simulation
+Cybersecurity Simulation
+Industrial Cybersecurity Simulation
+OT Security Exercise
+IT Security Exercise
+Security Operations Exercise
+Cybersecurity Framework Implementation
+NIST Cybersecurity Framework
+ISO 27001 Implementation
+ISO 27002 Implementation
+ISO 22301 Implementation
+CIS Controls Implementation
+SOC Metrics Collection
+KRI Measurement
+Incident Metrics Collection
+

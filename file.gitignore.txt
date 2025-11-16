@@ -1,0 +1,13 @@
+# Virtual Environments
+venv/
+petronas-env/
+
+# Sensitive Files
+*.json
+google_translate_key.json
+service_account.json
+google_search_api_key.txt 
+
+# Operating System Files
+.DS_Store
+Thumbs.db
