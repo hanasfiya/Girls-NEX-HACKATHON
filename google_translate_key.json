@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "glossy-agency-478304-f8",
+  "private_key_id": "cc51ba10a4764301478fb9faa74c1ccaaee3c3aa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC44Eoi6B5aNAxP\ngZPenpk3ElxfK6jtO2IFhnd3TNJtaxAIpmdqyAKJJXKKlKDR69lotBIPG8v5tzuH\nqGaD+D++eGzzI4awTMudsFt5bGW5GMWyqpcI6/GdMO4P0ZnugYZUNW/1GbjVhVCd\ncUvRQ6m5XuuHIIcCOseB4N+1k4SS79YsaSg3Gtbsr05uO6Fl2YuCRopnXSSwng1P\nEfd5EBtCBugXMuL2GMt/F7qmnvGZDh1+1Dwd1EK2T5CJ332Wj+3SB7kOnnwHhSdo\nDXlGh+3onAg8n27+PLdW1Vne5PKzr+Oq7oIVT2c2u9LpiKYmwKCAraDSdzqVIZFf\n8U1FYxADAgMBAAECggEASW+qczgxylHva+uEQcNNCA+uio1MskNK2fgCX2ywD4+e\nFFmJLeTaAQFTgNGuGgSt3QXeQIshmIVcy7OsWRKUu4OZf3EmsMQog3BIvbA9res1\nqJVTnlMeq/qCLd1r4E4p/iwl1z3K6mHk1k1pOOxAMGaQdyIIDu4rTp91LWq2GCkn\nxtoQkcdluepCcNhpODtnwo7KVZCxv3HjaWFrp7EiHFdexudoEjI9eFS7mcUVXOCw\nsnDi+AMggrCmzhvIjRzQ8R7xiuNInxLjgZJuHVEuaSq/FiLQxT47UjU0ujvdfsxY\n9CQio2k8VygdHT1TPTAOxWHTcsge5TcAYgfqD/yDFQKBgQDzURplp6+tTvmN+sBf\nURv1o60lXo86zxJ/R6/ewP1OCFByooScxgxui2OJsprSLC3kqsLjQOEc/zCmTdf5\n0q8sOEPC2QN4g/eKN0JHG2QTAx9M3O0hEy38YPcsfOIvit7ThFOM7XUQbsBxBWc3\ngqkSrx7TLOv6cHoU2pfrvdZqzQKBgQDCg1Xiqhae7RCAA4E3gNfNdfEb3fF0e6e4\na4NiQq3Li0oqy16OZE1oVDxpGX79miP/CJMo7xAVTy9hv2205WmoZukpYa18jix0\nZm7jev42tjbdYWYSvMjGyUal33IZXIjTc48vCtCSTTsyUj7wW/y6RKrJh7ZV/F2t\nah8FYJoGDwKBgQDHFn164BImxI/9VEdDtqIiA6MRCKY5gGWqL4X/xfl9d+AbbE8F\n2Ccj7Hmtma6EehGzIOYF/Hg1ubic2uT1TSZ4EDGhpN/qJFDPjxd0Bz2DMPLTeZGt\nlnvyHYUhqa2JKR/aAlQ647D9mSFtWPZzvT2KRC/8qq0LZiz+Ez5rbhGboQKBgQC9\nDtBkjjOMZxj5g+6NVwLp5a/jCRbNw/6h5oX99Jdd1lXRQHf4aI9AT1ekQ67FqZNB\nKEF4sNvuClggZuKnx6+pidUobpMkFEArJwCyw/Hglby/8hI3Nhzj8fBj+sm40tL+\nyzwpWhadjMlzwLMCBjafiWyCkxDrhG48xn++R0WNiwKBgASm9Doylp3chqUiyeoJ\n0lah7GtXSoVyzbcwDqI1f0JIItW/odK8RPZxYGsz222uMmXm3YdwJMfAkw1yXQAa\nv7IigsrfaOukWK3cgDnGy4uV1uRx39dlLOqXIVeMiig+OBWGtyKreJUJTm7pmirh\n/YaUdG7M/4nljBnLWwMW/oex\n-----END PRIVATE KEY-----\n",
+  "client_email": "girls-143@glossy-agency-478304-f8.iam.gserviceaccount.com",
+  "client_id": "100650009759298630515",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/girls-143%40glossy-agency-478304-f8.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
